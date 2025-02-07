@@ -1,0 +1,1 @@
+I used https://www.w3schools.com/python/ref_func_ord.asp to find the ord function. 
