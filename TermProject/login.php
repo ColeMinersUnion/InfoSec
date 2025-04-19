@@ -1,9 +1,0 @@
-<html>
-<body>
-
-//I have a psql database on postgresql://localhost:5500
-
-Welcome <?php echo $_POST["username"]; ?><br>
-
-</body>
-</html>
